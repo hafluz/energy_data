@@ -44,12 +44,11 @@ The purpose of this project is to create a dashboard for tracking the adoption a
 
 
 ## Contact
-* Feel free to contact me with any questions or if you are interested in contributing!
+Feel free to contact me with any questions or if you are interested in contributing in other data analysis projects!
 
 **Henrique Augsten Luz**
 
-**[Github profile](https://github.com/hafluz)**
-
-**[LinkedIn](https://www.linkedin.com/in/henrique-augsten-luz)**
+* **[Github profile](https://github.com/hafluz)**
+* **[LinkedIn](https://www.linkedin.com/in/henrique-augsten-luz)**
 
 
