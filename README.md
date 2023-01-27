@@ -1,75 +1,55 @@
 # How Green is the Energy we use? 
-
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+Subtitle
 
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to create a dashboard for tracking the adoption and evolution of low-carbon energy source across the world across and throuout the years. 
+The purpose of this project is to create a dashboard for tracking the adoption and evolution of low-carbon energy sources across the world and throughout the years.
 
 
 ### Methods Used
-* Exploratory Analysis
-* Data Wrangling
-* 
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Exploratory data analysis
+* Data wrangling
+* KPI setting
+* Descriptive statistics   
+* Data visualization
+
 
 ### Technologies
-* R 
+* SQL
+* BigQuery
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Pandas, Jupyter
+* Tableau
+* Google Cloud
+
 
 ## Project Description
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
-## Needs of this project
+### Steps
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+1.
+2.
+3.
 
-## Getting Started
+### Links
+* Link to scripts (link)[Notebook/Markdown/Slide Deck Title](link)
+* Link to Tableau dashboard [Blog Post](link)
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+### Sources
+* BP
+* World Bank Data
 
 
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+* Feel free to contact me with any questions or if you are interested in contributing!
+
+**Henrique Augsten Luz**
+
+**[Github profile](https://github.com/hafluz)**
+
+**[LinkedIn](https://www.linkedin.com/in/henrique-augsten-luz)**
+
+
