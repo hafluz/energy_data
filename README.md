@@ -35,16 +35,16 @@ There was also an effort to integrate the entire process in the cloud, starting 
 
 ### Steps
 
-1. Understanding the Global energy context
-2. Researching for meaningful and updated datasets
-3. Database set up with Google Cloud
+1. Understanding the Global energy context and defining questions
+2. Researching and collecting meaningful and updated datasets
+3. Setting up the Database with Google Cloud
 4. Data preparation and cleaning with SQL using BigQuery 
-5. Exploratory analysis with SQL using BigQuery 
-6. Data Validation
-7. Connecting SQL queries to Google Drive using Python script
-8. Importing datasets into Tableau through Google Drive integration
-9. Analysing queries and creating data visualizations with Tableau
-10. Dashboard development with Tableau
+5. Descriptive and Diagnostic analysis with SQL using BigQuery 
+6. Syncing and exporting SQL queries with Google Drive using Python
+7. Importing datasets into Tableau through Google Drive integration
+8. Analysing the and creating data visualizations with Tableau
+9. Dashboard development with Tableau
+10. Sharing of final insights
 
 
 ### Links
