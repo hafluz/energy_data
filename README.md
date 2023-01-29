@@ -4,7 +4,12 @@ Creating a dashboard for tracking global low-carbon energy consumption and its i
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is to create a dashboard for tracking the adoption and evolution of low-carbon energy sources (i.e. hydro, nuclear, wind, solar) across the world and throughout the years.
+The purpose of this project was to create a dashboard for tracking the adoption and evolution of low-carbon energy sources (i.e. hydro, nuclear, wind, solar) across the world and throughout the years.
+
+
+
+Insert screenshot
+
 
 
 ### Methods Used
@@ -48,8 +53,8 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 
 
 ### Links
-* [Link to SQL queries](https://github.com/hafluz/data-insights/blob/main/How_Green_is_the_Energy_We_Use_v4.ipynb)
-* [Link to Tableau dashboard](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
+* **[Link to SQL queries](https://github.com/hafluz/data-insights/blob/main/How_Green_is_the_Energy_We_Use_v4.ipynb)**
+* **[Link to Tableau dashboard](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 ### Sources
 * BP Statistical Review of World Energy 2022 (Energy data)
