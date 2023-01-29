@@ -30,7 +30,7 @@ To answer these questions and to develop insights for further validation, descri
 
 Afterward, a dashboard with the most insightful KPIs and visualizations was built using [Tableau](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link). 
 
-There was also an effort to integrate the entire process in the cloud, starting with the datasets being hosted on Google Cloud, querying with BigQuery, automating with Python on Google Colaboratory to export dataframes to Google Drive and finally with the data syncing with Tableau to be visualized and shared.
+There was also an effort to integrate and sync the entire process in the cloud, beginning with the datasets being hosted on Google Cloud, querying with BigQuery, automating with Python to export dataframes to Google Drive, and finally data syncing with Tableau to build and share visualizations. 
 
 
 ### Steps
