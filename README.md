@@ -24,13 +24,13 @@ The purpose of this project is to create a dashboard for tracking the adoption a
 
 
 ## Project Description
-The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their impact on overall CO2 emissions. 
+The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key demographics. 
 
 To answer these questions and to develop insights for further validation, an exploratory data analysis was conducted with SQL using Google BigQuery - [the queries and scripts can be found here](https://github.com/hafluz/data-insights/blob/main/How_Green_is_the_Energy_We_Use_v4.ipynb).
 
 Afterward, a dashboard with the most insightful KPIs and visualizations was built using [Tableau](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link). 
 
-There was also an effort to integrate the entire process in the cloud, starting with the dataset hosted on Google Cloud, going through BigQuery, Python on Google Colaboratory, Google Drive and finally being visualized on Tableau.
+There was also an effort to integrate the entire process in the cloud, starting with the datasets being hosted on Google Cloud, querying with BigQuery, automating with Python on Google Colaboratory, exporting to Google Drive and finally with the insights being visualized on Tableau.
 
 
 ### Steps
@@ -52,8 +52,8 @@ There was also an effort to integrate the entire process in the cloud, starting 
 * [Link to Tableau dashboard](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Sources
-* BP Statistical Review of World Energy 2022
-* World Bank Open Data
+* BP Statistical Review of World Energy 2022 (Energy data)
+* World Bank Open Data (Demographis data)
 
 
 ## Contact
