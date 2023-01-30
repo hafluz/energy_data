@@ -1,4 +1,4 @@
--- 1. What are the Biggest Energy Consuming Countries by Source?
+# 1. What are the Biggest Energy Consuming Countries by Source?
 
 SELECT country, year, primary_ej as total_cons, oilcons_ej as oil_cons, 
     gascons_ej as natgas_cons, coalcons_ej as coal_cons, nuclear_ej as nuclear_cons,
