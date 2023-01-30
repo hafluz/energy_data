@@ -4,7 +4,7 @@ Creating a dashboard for tracking global low-carbon energy consumption and its i
 #### Project Status: [Completed]
 
 
-![Captura de Tela (6)](https://user-images.githubusercontent.com/122936255/215541424-28636d13-09d3-4682-be25-7db967bb58ca.png)
+![Captura de Tela (9)](https://user-images.githubusercontent.com/122936255/215545006-45224a36-7173-4e34-978f-217180bcca6f.png)
 
 
 ## Project Intro/Objective
