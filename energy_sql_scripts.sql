@@ -2,7 +2,7 @@
 
 -- A dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
 
--- Below is the descriptive and diagnostic data analysis conducted in the process of developing insights and subsequently creating data visualizations with Tableau.
+-- Below is the data exploration and analysis conducted in the process of developing insights and subsequently creating data visualizations with Tableau.
 
 
 -- 1. What are the Biggest Energy Consuming Countries by Source?
