@@ -1,3 +1,10 @@
+-- How Green is the Energy We Use?
+
+-- A dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
+
+-- Below is the descriptive and diagnostic data analysis conducted in the process of developing insights and subsequently creating data visualizations with Tableau.
+
+
 -- 1. What are the Biggest Energy Consuming Countries by Source?
 
 SELECT country, year, primary_ej as total_cons, oilcons_ej as oil_cons, 
