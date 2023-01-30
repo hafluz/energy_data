@@ -27,7 +27,7 @@ The purpose of this project was to create a dashboard for tracking the adoption 
 
 
 ## Project Description
-The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key demographics. 
+The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key economic indicators. 
 
 To answer these questions and to develop insights for further validation, descriptive and diagnostic data analytics were imployed with SQL using Google BigQuery - [the queries and scripts can be found here](https://github.com/hafluz/energy_data/blob/main/energy_python.ipynb).
 
@@ -56,7 +56,7 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 
 ### Sources
 * BP Statistical Review of World Energy 2022 (Energy data)
-* World Bank Open Data (Demographis data)
+* World Bank Open Data (Economy data)
 
 
 ## Contact
