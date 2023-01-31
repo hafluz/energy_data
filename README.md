@@ -52,6 +52,7 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 
 ### Links
 * **[Link to SQL queries](https://github.com/hafluz/energy_data/blob/main/energy_sql_scripts.sql)**
+* **[Link to Python scripts](https://github.com/hafluz/energy_data/blob/main/energy_python.ipynb)**
 * **[Link to Tableau dashboard](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 ### Sources
