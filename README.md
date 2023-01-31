@@ -7,17 +7,17 @@ Creating a dashboard for tracking global low-carbon energy consumption and its i
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/122936255/215545006-45224a36-7173-4e34-978f-217180bcca6f.png)
 
 
-## Project Intro/Objective
+## Project Summary
 The purpose of this project was to create a dashboard for tracking the adoption and evolution of low-carbon energy sources (i.e. hydro, nuclear, wind, solar) across the world and throughout the years.
 
-### Methods Used
-* Exploratory data analysis
+### Methodology
+* Data exploration
 * Data preparation and wrangling
 * Setting KPIs
 * Descriptive statistics   
 * Data visualization
 
-### Technologies
+### Tools
 * SQL
 * BigQuery
 * Python
@@ -42,7 +42,7 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 2. Researching and collecting meaningful and updated datasets
 3. Setting up the Database with Google Cloud
 4. Data preparation and cleaning with SQL using BigQuery 
-5. Descriptive and Diagnostic analysis with SQL using BigQuery 
+5. Data exploration analysis with SQL using BigQuery 
 6. Syncing and exporting SQL queries with Google Drive using Python
 7. Importing datasets into Tableau through Google Drive integration
 8. Analysing the and creating data visualizations with Tableau
