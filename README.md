@@ -42,7 +42,7 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 2. Researching and collecting meaningful and updated datasets
 3. Setting up the Database with Google Cloud
 4. Data preparation and cleaning with SQL using BigQuery 
-5. Data exploration analysis with SQL using BigQuery 
+5. Exploratory data analysis with SQL using BigQuery 
 6. Syncing and exporting SQL queries with Google Drive using Python
 7. Importing datasets into Tableau through Google Drive integration
 8. Analysing the and creating data visualizations with Tableau
