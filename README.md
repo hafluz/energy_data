@@ -1,5 +1,5 @@
 # How Green is the Energy we use? 
-Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
+🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
 
 #### Project Status: [Completed]
 
