@@ -7,7 +7,7 @@
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/122936255/215545006-45224a36-7173-4e34-978f-217180bcca6f.png)
 
 
-## Project Summary
+## Project Overview
 The purpose of this project was to create a dashboard for tracking the adoption and evolution of low-carbon energy sources (i.e. hydro, nuclear, wind, solar) across the world and throughout the years.
 
 ### Methodology
