@@ -66,6 +66,6 @@ Feel free to contact me with any questions or if you are interested in colaborat
 **Henrique Augsten Luz**
 
 * **[Github profile](https://github.com/hafluz)**
-* **[LinkedIn](https://www.linkedin.com/in/henrique-augsten-luz)**
+* **[LinkedIn](https://www.linkedin.com/in/henrique-augsten)**
 
 
