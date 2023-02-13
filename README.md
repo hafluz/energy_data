@@ -63,9 +63,9 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 ## Contact
 Feel free to contact me with any questions or if you are interested in colaborating on other data analysis projects!
 
-**Henrique Augsten Luz**
+**Henrique Augsten**
 
-* **[Github profile](https://github.com/hafluz)**
+* **[Github](https://github.com/hafluz)**
 * **[LinkedIn](https://www.linkedin.com/in/henrique-augsten)**
 
 
