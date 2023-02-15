@@ -24,14 +24,14 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 
 
 ### Methodology
-* Data exploration
 * Data preparation and wrangling
+* Data Cleaning
+* Exploratory Data Analysis
 * Setting KPIs
 * Descriptive statistics   
 * Data visualization
 
 ### Steps
-
 1. Understanding the Global energy context and defining questions
 2. Researching and collecting meaningful and updated datasets
 3. Setting up the Database with Google Cloud
