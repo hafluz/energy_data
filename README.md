@@ -1,5 +1,5 @@
 # How Green is the Energy we use? 
-🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on carbon emissions.
+🌎 Creating a dashboard for tracking global low-carbon energy consumption and its impact on CO2 emissions.
 
 > #### Project Status: [Completed]
 
@@ -7,27 +7,8 @@
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/122936255/215545006-45224a36-7173-4e34-978f-217180bcca6f.png)
 
 
-## Project Overview
-The purpose of this project was to create a dashboard for tracking the adoption and evolution of low-carbon energy sources (i.e. hydro, nuclear, wind, solar) across the world and throughout the years.
-
-### Methodology
-* Data exploration
-* Data preparation and wrangling
-* Setting KPIs
-* Descriptive statistics   
-* Data visualization
-
-### Tools
-* SQL
-* BigQuery
-* Python
-* Pandas, Jupyter
-* Tableau
-* Google Cloud
-
-
 ## Project Description
-The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key economic indicators. 
+The main goal of the project was to create a tool to track the growth and evolution of low-carbon energy (i.e. hydro, nuclear, wind, solar) throughout the world. Additionally, the aim was to explore the data further and test a few hypotheses regarding the use of clean energy sources and their relationship with overall CO2 emissions and other key economic indicators. 
 
 To answer these questions and to develop insights for further validation, descriptive and diagnostic data analytics were imployed with SQL using Google BigQuery - [the queries and scripts can be found here](https://github.com/hafluz/energy_data/blob/main/energy_python.ipynb).
 
@@ -35,6 +16,19 @@ Afterward, the [dashboard above](https://public.tableau.com/views/GlobalEnergyCo
 
 There was also an effort to integrate and sync the entire process in the cloud, beginning with the datasets being hosted on Google Cloud, querying with BigQuery, automating with Python to export dataframes to Google Drive, and finally data syncing with Tableau to build and share visualizations. 
 
+
+### Links
+* **Python Code:** [`energy_python.ipynb`](https://github.com/hafluz/energy_data/blob/main/energy_python.ipynb)   
+* **SQL Queries:** [`energy_sql_scripts.sql`](https://github.com/hafluz/energy_data/blob/main/energy_sql_scripts.sql)    
+* **Dashboard:** [`Tableau dashboard`](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)  
+
+
+### Methodology
+* Data exploration
+* Data preparation and wrangling
+* Setting KPIs
+* Descriptive statistics   
+* Data visualization
 
 ### Steps
 
@@ -49,15 +43,18 @@ There was also an effort to integrate and sync the entire process in the cloud, 
 9. Dashboard development with Tableau
 10. Sharing of final insights
 
+### Tools
+* SQL
+* BigQuery
+* Python
+* Pandas, Jupyter
+* Tableau
+* Google Cloud
 
-### Links
-* **[Link to SQL queries](https://github.com/hafluz/energy_data/blob/main/energy_sql_scripts.sql)**
-* **[Link to Python scripts](https://github.com/hafluz/energy_data/blob/main/energy_python.ipynb)**
-* **[Link to Tableau dashboard](https://public.tableau.com/views/GlobalEnergyConsumptionDashboard/HOWGREENISTHEENERGYWEUSE?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)**
 
 ### Sources
-* BP Statistical Review of World Energy 2022 (Energy data)
-* World Bank Open Data (Economy data)
+* [BP Statistical Review of World Energy 2022 (Energy data)](https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+* [World Bank Open Data (Economy data)](https://data.worldbank.org)
 
 
 ## Contact
